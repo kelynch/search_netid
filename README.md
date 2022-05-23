@@ -24,7 +24,7 @@ $ ruby search_netid.rb
 
 ```bash
 gspivey
-tb123
+jw123
 zhima
 N/A
 mc456
