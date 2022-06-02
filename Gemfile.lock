@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    net-ldap (0.17.0)
     nokogiri (1.13.6-x86_64-darwin)
       racc (~> 1.4)
     racc (1.6.0)
@@ -9,6 +10,7 @@ PLATFORMS
   x86_64-darwin-19
 
 DEPENDENCIES
+  net-ldap
   nokogiri
 
 BUNDLED WITH

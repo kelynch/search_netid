@@ -4,8 +4,6 @@ require 'uri'
 require 'httparty'
 require 'nokogiri'
 
-require 'pry'
-
 names = File.open('manifest').readlines
 
 names.each do |name|
