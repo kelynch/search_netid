@@ -1,6 +1,6 @@
 # README for `search_netid`
 
-This script harvests and outputs available net IDs from [Princeton's Advanced People Search](https://www.princeton.edu/search/people-advanced) based on names in a manifest.
+This script reconciles and outputs available net IDs from Princeton LDAP based on names in a manifest.
 
 ## Instructions
 
