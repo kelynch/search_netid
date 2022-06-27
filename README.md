@@ -17,7 +17,7 @@ Melibeo Callas
 2. Run the script as follows:
 
 ```bash
-$ ruby search_netid.rb
+$ ruby ldap_search.rb
 ```
 
 3. You should see output something like the following:
@@ -28,6 +28,7 @@ tb123
 zhima
 N/A
 mc456
+...
 ```
 
 NOTE: If a name does not have a net ID associated with it in the Advanced People Search, the script will print `N/A`.
