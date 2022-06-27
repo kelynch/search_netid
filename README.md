@@ -24,7 +24,7 @@ $ ruby ldap_search.rb
 
 ```bash
 gspivey
-tb123
+jw123
 zhima
 N/A
 mc456
