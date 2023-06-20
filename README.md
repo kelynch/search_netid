@@ -4,7 +4,7 @@ This script reconciles and outputs available net IDs from Princeton LDAP based o
 
 ## Instructions
 
-1. Create a manifest formatted like [manifest.example](manifest.example), with one name per line, first name then last name, as follows:
+1. Create a manifest called `manifest` formatted like [manifest.example](manifest.example), with one name per line, first name then last name, as follows:
 
 ```
 Gerard Spivey
